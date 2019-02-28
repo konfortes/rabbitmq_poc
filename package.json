@@ -1,0 +1,26 @@
+{
+  "name": "rabbitmq_poc",
+  "version": "1.0.0",
+  "description": "rabbitmq poc",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konfortes/rabbitmq_poc.git"
+  },
+  "keywords": [
+    "rabbitmq",
+    "nodejs"
+  ],
+  "author": "Ronen Konfortes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konfortes/rabbitmq_poc/issues"
+  },
+  "homepage": "https://github.com/konfortes/rabbitmq_poc#readme",
+  "dependencies": {
+    "amqplib": "^0.5.3"
+  }
+}
